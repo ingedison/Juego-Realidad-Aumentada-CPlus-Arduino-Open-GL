@@ -1,0 +1,111 @@
+﻿  Archivo.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Archivo.cpp(13,47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Archivo.cpp(14,48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Archivo.cpp(15,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Archivo.cpp(17,35): warning C4101: 'add': variable local sin referencia
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Archivo.cpp(33,37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Camera.cpp
+  Crear_Escenario.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Crear_Escenario.cpp(8,44): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Crear_Escenario.cpp(8,27): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+  Dianas.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(38,84): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(39,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(40,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(41,56): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(42,52): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(98,52): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(98,35): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(107,56): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(113,52): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(113,35): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(137,52): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(137,35): warning C4244: 'inicializando': conversión de 'double' a 'const float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dianas.cpp(153,46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Arduino.cpp
+  Dibujar.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.h(13,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(3,41): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(328,36): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(374,54): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(399,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(402,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(422,53): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(425,80): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(428,95): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(431,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(463,83): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(463,64): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(463,45): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(465,64): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(465,45): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(468,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(475,36): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(581,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(586,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(591,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(597,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(603,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(612,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(620,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(628,81): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(692,49): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(705,40): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(872,51): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.cpp(896,78): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  FullScreen.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\FullScreen.cpp(13,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ImageLoader.cpp
+  Menu.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Menu.cpp(3,53): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+  Keyboard.cpp
+  main.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.h(13,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Math.cpp
+  Mouse.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Mouse.cpp(60,70): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Mouse.cpp(60,51): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Mouse.cpp(60,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Mouse.cpp(125,84): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Mouse.cpp(125,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Mouse.cpp(125,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Score_Time.cpp
+  Serial.cpp
+  SerialUtil.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(13,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(18,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(35,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(40,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(55,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(66,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(78,33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Serial_Arduino\SerialUtil.cpp(91,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Terreno.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Terreno.cpp(39,24): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Terreno.cpp(53,45): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Terreno.cpp(53,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Terreno.cpp(56,51): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Terreno.cpp(56,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+  Texto.cpp
+  Texture.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Texture.cpp(33,27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Tiempo.cpp
+  Generando código...
+  Compilando...
+  vec3f.cpp
+  Vector3f.cpp
+  Viewport.cpp
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Dibujar.h(13,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(7,42): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(10,72): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(11,72): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(14,72): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(15,72): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(18,72): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(19,72): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(22,75): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\inged\Downloads\GLUT_COMPLETE\GLUT_COMPLETE\Viewport.cpp(23,75): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+  GLUT_COMPLETE.vcxproj -> C:\Users\inged\Downloads\GLUT_COMPLETE\Debug\GLUT_COMPLETE.exe
